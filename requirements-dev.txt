@@ -19,7 +19,7 @@ docutils==0.15.2; python_version >= "3.6" and python_full_version < "3.0.0" or p
 dsnap==1.0.0; python_version >= "3.6" and python_version < "4.0"
 flake8==3.9.2; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.5.0")
 freezegun==1.1.0; python_version >= "3.5"
-idna==3.2; python_version >= "3.5" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.5"
+idna==3.7; python_version >= "3.5" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.5"
 importlib-metadata==4.6.3; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "3.8" or python_full_version >= "3.5.0" and python_version < "3.8" and python_version >= "3.6"
 iniconfig==1.1.1; python_version >= "3.6"
 inquirer==2.7.0
