@@ -109,7 +109,7 @@ pyyaml==5.4.1; python_version >= "3.6" and python_full_version < "3.0.0" or pyth
 readchar==2.0.1 \
     --hash=sha256:ed00b7a49bb12f345319d9fa393f289f03670310ada2beb55e8c3f017c648f1e \
     --hash=sha256:3ac34aab28563bc895f73233d5c08b28f951ca190d5850b8d4bec973132a8dca
-requests==2.26.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0") \
+requests==2.32.0; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.6.0") \
     --hash=sha256:6c1246513ecd5ecd4528a0906f910e8f0f9c6b8ec72030dc9fd154dc1a6efd24 \
     --hash=sha256:b8aa58f8cf793ffd8782d3d8cb19e66ef36f7aba4353eec859e74678b01b07a7
 rsa==4.7.2; python_version >= "3.6" and python_version < "4" \
